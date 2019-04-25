@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://r3jack.github.io/blog/2019/04/24/hello-world-star-n/</loc>
+<loc>http://likeanerd.org/blog/2019/04/24/hello-world-star-n/</loc>
 <lastmod>2019-04-24T19:59:11+08:00</lastmod>
 </url>
 <url>
-<loc>http://r3jack.github.io/</loc>
+<loc>http://likeanerd.org/</loc>
 </url>
 <url>
-<loc>http://r3jack.github.io/archives/</loc>
+<loc>http://likeanerd.org/archives/</loc>
 </url>
 <url>
-<loc>http://r3jack.github.io/about/</loc>
+<loc>http://likeanerd.org/about/</loc>
 </url>
 </urlset>
